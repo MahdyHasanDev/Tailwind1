@@ -1,0 +1,27 @@
+tailwind.config= {
+    theme: {
+        extend: {
+            /* color  */
+            colors: {
+                headerBg: '#DBD5FB', btnColor: '#7258F7', h1Color: '#3D3430', pColor: '#5F5450'
+            }
+            ,
+            /* color  */
+            /* background image  */
+            backgroundImage: {
+                bannerBg: "url(./images/Header.png)",
+                onlineBg: "url(./images/help.png)",
+                doBg: "url(./images/do.png)",
+            }
+            ,
+            /* background image  */
+            fontSize: {
+                64: '64px',  40: '30px',30: '10px', 35: '20px',
+            }
+            ,
+            fontFamily: {
+                'fun': ["Paprika"],
+            }
+        }
+    }
+}
