@@ -16,7 +16,7 @@ tailwind.config= {
             ,
             /* background image  */
             fontSize: {
-                64: '64px',  40: '30px',30: '10px', 35: '20px',
+                64: '64px',  40: '35px',30: '25px', 35:'23px',
             }
             ,
             fontFamily: {
